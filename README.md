@@ -16,5 +16,6 @@ This project is great for practicing Python basics like string manipulation, loo
 
 ## 📂 Project Structure
 speed-tester/
+
 │── main.py
 │── README.md
